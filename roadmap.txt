@@ -1,0 +1,2 @@
+npm install --registry=https://registry.npmjs.org/ angulartics2@7.5.2  --save
+
